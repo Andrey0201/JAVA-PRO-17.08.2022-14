@@ -1,4 +1,4 @@
-package com.javapro.lesson17.task2;
+package com.javapro.lesson19.task2;
 
 public class Main {
 
